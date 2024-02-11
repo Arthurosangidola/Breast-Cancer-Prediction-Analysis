@@ -13,7 +13,7 @@ Kontribusi dari para pengembang sangat dihargai. Jika Anda ingin berkontribusi k
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi [Nama Anda] di [email@example.com].
+Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi [Arthur] di [aoktavianus084@gmail.com].
 
 ## Status Proyek
 Proyek ini masih dalam tahap pengembangan awal. Kontribusi dari komunitas sangat diharapkan untuk meningkatkan kualitas dan kemampuan prediktif model.
